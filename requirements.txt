@@ -1,0 +1,10 @@
+# Pinned to the versions this analysis was run and verified against.
+# Tested on Python 3.13.7
+pandas==3.0.5
+numpy==2.5.2
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Only needed to re-execute the notebook from the command line.
+# JupyterLab / VS Code ship their own kernel, so this is optional.
+notebook==7.17.1
